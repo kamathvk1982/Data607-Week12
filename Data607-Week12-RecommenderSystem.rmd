@@ -1,0 +1,62 @@
+---
+title: "Data607-Assignment Discussion - Week12 - Recommender System"
+author: "Vinayak Kamath"
+date: "4/15/2020"
+output: 
+  ioslides_presentation:
+    logo: ./pics/BestBuyIcon.png
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Introduction
+
+
+[Best Buy](www.bestbuy.com) utilizes Recommender System to increase revenues and improve customer experience. Best Buy has been using its recommendation system for eCommerce since 2015.   
+
+The system works by predicting what a customer is interested in based on their individual browsing and purchase data. Best Buy decided to focus on their online sales, and in 2016’s second quarter they reported a 23.7% increase, thanks in part to their recommender system.    
+
+  
+  
+![](./pics/BestBuySearchIcon.png)    
+
+
+## Scenario Design for [Best Buy](www.bestbuy.com)
+
+
+Online Shopping has increased popularity with  
+
+- Target Users: Customers using online shopping for buying electronic products.  
+- Key Goals: To provide recommendations based on Search History and on Association-matching to recommend other products.  
+- What Can Help: Price Matching or Online comparison of product rates with other online stores.    
+
+
+
+## Scenario Design for Customer
+
+
+Online Shopping has increased popularity with  
+
+- Target Users: All online shopping Customers.  
+- Key Goals: One stop for all electronic product shopping. Upto date product offering.  
+- What Can Help: useful recommendation, price comparison, Accessory buying along with main product.    
+
+    
+
+## Recommendations
+
+
+- When shopping online, one always checks multiple sites comparing prices and delivery charges. Best Buy can help by providing a quick link to prices and other details on other sites. This may help customers to be on just one site and maybe just use Best Buy as one stop shopping site.  
+- Have a manufacturer recommendation on accessories on each product. Along with showing what others brought along with THIS product. 
+
+
+
+## Sources/ References
+
+
+- https://emerj.com/ai-sector-overviews/use-cases-recommendation-systems/  
+- https://sigmoidal.io/recommender-systems-recommendation-engine/  
+
+  
